@@ -21,4 +21,8 @@ public class Person {
     public void setHøjde(double højde) {
         this.højde = højde;
     }
+
+    public void harFødselsdag() {
+        alder++;
+    }
 }
